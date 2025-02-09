@@ -1,0 +1,6 @@
+com\microservicesProject\order\dto\OrderRequest.class
+com\microservicesProject\order\model\Order.class
+com\microservicesProject\order\repository\OrderRepository.class
+com\microservicesProject\order\OrderServiceApplication.class
+com\microservicesProject\order\service\OrderService.class
+com\microservicesProject\order\controller\OrderController.class
