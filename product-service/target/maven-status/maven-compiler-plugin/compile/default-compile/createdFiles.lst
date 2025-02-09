@@ -1,0 +1,8 @@
+com\joaoLago\micorservices\product_service\service\ProductService.class
+com\joaoLago\micorservices\product_service\repository\ProductRepository.class
+com\joaoLago\micorservices\product_service\ProductServiceApplication.class
+com\joaoLago\micorservices\product_service\controller\ProductController.class
+com\joaoLago\micorservices\product_service\dto\ProductRequest.class
+com\joaoLago\micorservices\product_service\model\Product$ProductBuilder.class
+com\joaoLago\micorservices\product_service\dto\ProductResponse.class
+com\joaoLago\micorservices\product_service\model\Product.class
